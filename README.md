@@ -1,7 +1,7 @@
 # Dependency Injection with Swinject
 
 Intro to **Dependency Injection** implementation with **Swinject** framework.
-Including unit testing and code refactor using **Clean Swift VIP** Architechture.
+Including unit testing and code refactor using **Clean Swift VIP** Architecture.
 
 ## Requirements
 
