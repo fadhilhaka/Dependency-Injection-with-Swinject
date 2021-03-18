@@ -1,0 +1,11 @@
+{
+    "data":[
+        {
+            "author":"test",
+            "common_name":"Test Plant",
+            "family":"Testing",
+            "image_url": "https://testing.url",
+            "scientific_name": "testplant"
+        }
+    ]
+}

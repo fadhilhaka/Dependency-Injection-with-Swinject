@@ -1,0 +1,14 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'PlantFinder' do
+  pod 'Swinject', '2.1.1'
+  pod 'SwinjectAutoregistration', '2.1.1'
+  pod 'SwinjectStoryboard', '1.1.2'
+  
+end
+
+target 'PlantFinderTests' do
+  pod 'Swinject', '2.1.1'
+  pod 'SwinjectAutoregistration', '2.1.1'
+end

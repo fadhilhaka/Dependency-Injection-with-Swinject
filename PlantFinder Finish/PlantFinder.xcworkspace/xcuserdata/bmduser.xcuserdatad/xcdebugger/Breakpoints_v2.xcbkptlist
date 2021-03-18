@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE47B5AA-F6ED-47C0-B69E-912AC1D936AC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E1A289E-FD84-4232-BE70-79B67116CC94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlantFinder/MainContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C64BE4DB-DE46-4EE7-8BF3-2C49F50705AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlantFinder/Injector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "774F8EC8-8D73-48FC-A010-A5BC949324B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlantFinder/Plant Finder Swinject/Interactor/PlantFinderConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "assemble(container:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "774F8EC8-8D73-48FC-A010-A5BC949324B6 - 662aef3fd3fd9d03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlantFinder.PlantFinderConfigurator.assemble(container: Swinject.Container) -&gt; ()"
+                  moduleName = "PlantFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bmduser/Downloads/latihan/PlantFinder/PlantFinder/Plant%20Finder%20Swinject/Interactor/PlantFinderConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "774F8EC8-8D73-48FC-A010-A5BC949324B6 - a2b80a71723a357b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swinject.Resolver) -&gt; PlantFinder.PlantFinderPresenterOutput in PlantFinder.PlantFinderConfigurator.assemble(container: Swinject.Container) -&gt; ()"
+                  moduleName = "PlantFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bmduser/Downloads/latihan/PlantFinder/PlantFinder/Plant%20Finder%20Swinject/Interactor/PlantFinderConfigurator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
