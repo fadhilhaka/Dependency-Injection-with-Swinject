@@ -9,6 +9,11 @@ Including unit testing and code refactor using **Clean Swift VIP** Architecture.
 * Swift 5+
 * iOS Platform 10 or later
 
+## API
+
+Open, freely accessible botanical data source and REST API from: 
+[trefle.io](https://trefle.io)
+
 ## Built with
 
 * [Cocoapods](https://guides.cocoapods.org/using/getting-started.html) - The Cocoa Dependency Manager.

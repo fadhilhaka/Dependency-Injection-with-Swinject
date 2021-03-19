@@ -8,7 +8,8 @@
 struct Plant {
     struct Request {
         let baseURL = "https://trefle.io/"
-        let token = "?token=fF2xWirZ7FbJ6ouOvE3THy3nPLAs_MD1E2AafF0Oyp0"
+        /// Get token from https://trefle.io
+        let token = "?token="
         let searchPath = "api/v1/species/search"
         let searchLimit = 3
         var keyword = ""
