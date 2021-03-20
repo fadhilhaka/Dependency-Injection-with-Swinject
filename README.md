@@ -30,3 +30,7 @@ Open, freely accessible botanical data source and REST API from:
 ## Intention
 
 This repo is built for sharing session material for **NGEKOS** by **TerasBhinneka x SwiftId** at March 18<sup>th</sup> 2021.
+
+## Special Thanks
+
+Special thanks to om [**Budi**](https://github.com/budioktaviyan/budioktaviyan) and mas [**Uli**](https://github.com/aaulia/).
